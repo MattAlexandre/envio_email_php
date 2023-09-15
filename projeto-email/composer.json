@@ -1,0 +1,17 @@
+{
+    "name": "flademir/saulo",
+    "autoload": {
+        "psr-4": {
+            "Flademir\\Saulo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Flademir Morais",
+            "email": "fladermorais@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.8.1"
+    }
+}
